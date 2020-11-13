@@ -1,25 +1,25 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Irpan Chumaedi
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Hydrologis Engineer
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
+- name: freelance
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: Hidrologi, Hidrolika, dan Program R.
 
 #interests:
-#- Artificial Intelligence
-#- Computational Linguistics
-#- Information Retrieval
+#- Hydrological calculation
+#- Hydraulics Modeling (HEC-RAS)
+#- R Programming
 
 #education:
 #  courses:
@@ -40,13 +40,13 @@ bio: My research interests include distributed robotics, mobile computing and pr
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'about/#contact'  # For a direct email link, use "mailto:test@example.org".
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
+  link: 'mailto:irpanch@gmail.com'  # For a direct email link, use "mailto:test@example.org".
+#- icon: twitter
+#  icon_pack: fab
+#  link: https://twitter.com/GeorgeCushen
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/irpanch
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -63,6 +63,8 @@ social:
 #- Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Nama saya Irpan Chumaedi, latar belakang pekerjaan saya adalah konsultan swasta yang bergerak di perencanaan bidang sumber daya air. Pekerjaan utama saya adalah melakukan analisa hidrologi serta pemodelan hidrolika. Contoh pekerjaan yang saya kerjakan seperti perencanaan drainase, irigasi, bendung, bendungan, dan bidang sumber daya air lainnya.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+*Website* ini dibuat sebagai penyaluran pikiran penulis tentang hal-hal yang telah dipelajari dan berharap ilmu tersebut bisa tersebar lebih luas. Juga sebagai bahan koreksi jika terdapat kesalahan.
+
+Bagi yang masih penasaran dengan apa yang biasa saya kerjakan bisa dilihat chanel [YouTube saya](https://www.youtube.com/irpanch "chanel youtube"). Di chanel tersebut saya upload beberapa proyek simulasi HEC-RAS yang pernah saya kerjakan.
