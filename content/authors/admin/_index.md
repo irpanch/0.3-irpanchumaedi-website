@@ -63,14 +63,13 @@ social:
 #- Visitors
 ---
 
-## Halo
 Nama saya Irpan Chumaedi, latar belakang pekerjaan saya adalah konsultan swasta yang bergerak di perencanaan bidang sumber daya air. Pekerjaan utama saya adalah melakukan analisa hidrologi serta pemodelan hidrolika. Contoh pekerjaan yang saya kerjakan seperti perencanaan drainase, irigasi, bendung, bendungan, dan bidang sumber daya air lainnya.
 
 *Website* ini dibuat sebagai penyaluran pikiran penulis tentang hal-hal yang telah dipelajari dan berharap ilmu tersebut bisa tersebar lebih luas. Juga sebagai bahan koreksi jika terdapat kesalahan.
 
 Bagi yang masih penasaran dengan apa yang biasa saya kerjakan bisa dilihat chanel [YouTube saya](https://www.youtube.com/irpanch "chanel youtube"). Di chanel tersebut saya upload beberapa proyek simulasi HEC-RAS yang pernah saya kerjakan.
 
-## Isi website
+# Isi website
 Secara umum *website* ini terdiri dari empat kategori besar:
 
 1.  Tutorial, yang bisa dibagi lagi menjadi:
@@ -97,6 +96,6 @@ Keempat hal tersebut bisa saling berhubungan antara satu sama lain. Misal dalam 
 
 Karena saya bergerak di bidang hidrologi dan hidrolika, maka sebisa mungkin konten di *website* ini mengarah ke bidang tersebut. Sebagai contoh untuk pemograman [R](https://www.r-project.org/ "situs resmi R"), saya akan menitikberatkan pada *package-package* hidrologi seperti [hydroTSM](https://cran.r-project.org/web/packages/hydroTSM/index.html), [extremStat](https://cran.r-project.org/web/packages/extremeStat/index.html), atau *package* [hidrologi lain](https://github.com/ropensci/Hydrology).
 
-## Penutup
+# Penutup
 
 Oke, sedikit perkenalan dan gambaran umum keseluruhan dari *website* ini untuk sementara dicukupkan sampai disini. Akan diupdate sesuai dengan perubahan yang memang diperlukan. Akhir kata, selamat membaca.
