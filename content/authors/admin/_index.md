@@ -6,11 +6,11 @@ title: Irpan Chumaedi
 superuser: true
 
 # Role/position
-role: Hydrologis Engineer
+role: Hydrologist Engineer
 
 # Organizations/Affiliations
 organizations:
-- name: freelance
+- name: Freelance
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
