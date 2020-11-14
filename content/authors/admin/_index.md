@@ -16,10 +16,10 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 bio: Hidrologi, Hidrolika, dan Program R.
 
-interests:
-- Hydrological calculation
-- Hydraulics Modeling (HEC-RAS)
-- R Programming
+#interests:
+#- Hydrological calculation
+#- Hydraulics Modeling (HEC-RAS)
+#- R Programming
 
 #education:
 #  courses:
@@ -69,7 +69,7 @@ Nama saya Irpan Chumaedi, latar belakang pekerjaan saya adalah konsultan swasta 
 
 Bagi yang masih penasaran dengan apa yang biasa saya kerjakan bisa dilihat chanel [YouTube saya](https://www.youtube.com/irpanch "chanel youtube"). Di chanel tersebut saya upload beberapa proyek simulasi HEC-RAS yang pernah saya kerjakan.
 
-# Isi website
+# Isi website 🕸
 Secara umum *website* ini terdiri dari empat kategori besar:
 
 1.  Tutorial, yang bisa dibagi lagi menjadi:
@@ -96,6 +96,6 @@ Keempat hal tersebut bisa saling berhubungan antara satu sama lain. Misal dalam 
 
 Karena saya bergerak di bidang hidrologi dan hidrolika, maka sebisa mungkin konten di *website* ini mengarah ke bidang tersebut. Sebagai contoh untuk pemograman [R](https://www.r-project.org/ "situs resmi R"), saya akan menitikberatkan pada *package-package* hidrologi seperti [hydroTSM](https://cran.r-project.org/web/packages/hydroTSM/index.html), [extremStat](https://cran.r-project.org/web/packages/extremeStat/index.html), atau *package* [hidrologi lain](https://github.com/ropensci/Hydrology).
 
-# Penutup
+# Penutup 🧑
 
 Oke, sedikit perkenalan dan gambaran umum keseluruhan dari *website* ini untuk sementara dicukupkan sampai disini. Akan diupdate sesuai dengan perubahan yang memang diperlukan. Akhir kata, selamat membaca.
