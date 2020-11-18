@@ -17,3 +17,13 @@
   name = "Tutorial"
   url = "tutorial/"
   weight = 20
+
+[[main]]
+  name = "Project"
+  url = "project/"
+  weight = 30
+
+[[main]]
+  name = "Konsep Thesis"
+  url = "konsep-thesis/"
+  weight = 40
