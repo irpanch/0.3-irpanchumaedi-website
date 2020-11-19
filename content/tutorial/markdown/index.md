@@ -1,6 +1,6 @@
 ---
-title: Writing technical content in Academic
-date: 2019-07-12
+title: Perkenalkan, Markdown
+date: 2020-11-11
 math: true
 diagram: true
 image:
