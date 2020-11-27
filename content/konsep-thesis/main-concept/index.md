@@ -12,7 +12,10 @@ category:
 - konsep-thesis
 image:
   placement: 3
-  caption: 'Image credit: [**dataquest.io**](https://www.dataquest.io/wp-content/uploads/2020/05/learn-data-science.jpg)'
+  caption: 'Image credit: [**studeo.com.au**](https://studeo.com.au/wp-content/uploads/2019/12/0016-STU-Studeo-Brainstorm-Blog-Main.jpg)'
+header:
+    image: "main-concept.jpg"
+    caption: "Image credit: [**studeo.com.au**](https://studeo.com.au/wp-content/uploads/2019/12/0016-STU-Studeo-Brainstorm-Blog-Main.jpg)"
 ---
 
 # Some Context
