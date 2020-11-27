@@ -1,4 +1,7 @@
 ---
+type: widget_page
+headless: false
+
 title: Konsep Thesis
 
 # View.
@@ -9,8 +12,8 @@ view: 3
 
 # Optional header image (relative to `static/media/` folder).
 header:
-  caption: "Konsep Thesis"
-  image: "main-concept.jpg"
+  caption: ""
+  image: ""
 
-type: widget_page
+
 ---
