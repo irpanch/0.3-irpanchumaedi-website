@@ -1,10 +1,10 @@
 ---
-title: Overview Thesis
+title: Main Concept
 date: 2020-28-11
 lastmod: 2020-28-11
 math: true
 diagram: true
-summary: Aplikasi _Data Science_ di Bidang Hidrologi
+summary: Konsep utama dari thesis, Aplikasi _Data Science_ di Bidang Hidrologi
 tags:
 - R
 - thesis
